@@ -28,8 +28,7 @@ Better Compliance: Tokenized private securities can be programmed with automated
 Overall, the use of tokenization in a private securities marketplace has the potential to revolutionize the way private markets operate, making it easier, more transparent, and more accessible for investors.
 This platform is where the ownership of private securities is represented and traded as digital tokens on a blockchain 
 
-# Brief description
-e-Mpiya P2P MoMo Crypto eXchange is a peer-to-peer crypto exchange that leverages mobile money and web3 technogoies to trade between users, with an escrow smart contract as a trust layer for the arbitration process.
+# Description
 
 There are two main processes involved in the concept of a tokenized private securities marketplace:
 
